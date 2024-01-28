@@ -29,7 +29,7 @@
 
 ## Service Diagram
 
-![img.png](![service-diagram](https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-backend-intro/assets/48153675/6b45c113-af57-4216-b377-b0976f17c346)
+![service-diagram](https://github.com/3dollar-in-my-pocket/3dollars-in-my-pocket-backend-intro/assets/48153675/6b45c113-af57-4216-b377-b0976f17c346)
 
 ## Architecture
 
