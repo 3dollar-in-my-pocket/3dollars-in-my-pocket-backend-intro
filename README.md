@@ -2,6 +2,9 @@
 
 > 유저 & 사장님 & 알림 서비스로, 레포는 현재 비공개로 운영중입니다.
 
+![TestCoverage](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/coverage.svg)
+![Test Report](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/badge.svg)
+
 ## Introduction
 
 전국 붕어빵 등 길거리 음식을 파는 곳을 알려주는 [**가슴속 3천원**](https://intro.threedollars.co.kr/)
