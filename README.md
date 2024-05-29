@@ -36,11 +36,11 @@
 
 ## Service Diagram
 
-![service-diagram](docs/service-diagram-20240529.png)
+![service-diagram](docs/service-diagram-20240530.png)
 
 ## Architecture
 
-![img.png](docs/3dollars-architecture-20240529.png)
+![img.png](docs/3dollars-architecture-20240530.png)
 
 ## Skills
 
