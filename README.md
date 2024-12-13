@@ -44,14 +44,13 @@
 
 ## Skills
 
-- Kotlin, Java 17
-- Spring Framework (Spring Boot 3, Spring MVC, Spring Webflux, Spring Batch, Spring Data), Kotlin
-  Coroutine
-- MariaDB, MongoDB, Redis, JPA, QueryDSL, Flyway
-- Junit5, Docker-compose
+- Kotlin, Java 21
+- Spring Framework (Spring Boot 3, Spring MVC, Spring Webflux, Spring Batch), Kotlin Coroutine
+- MariaDB, MongoDB, Redis, JPA, QueryDSL
+- Junit5, Spring Test
 - Gradle
 - Nginx, Filebeat
-- ECS, ALB, S3, CloudFront, RDS, Elastic Cache, SNS, SQS
+- AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
 - Git, GitHub Actions, SonarQube
 - CloudWatch, Sentry, Pinpoint, Jenkins (Scheduler), Elastic Stack, Slack
 
